@@ -1,4 +1,5 @@
-# Super Mario 64- Dark Edition
+# Super Mario 64 - Dark Edition
+
 ## Introduction
 
 This is a custom romhack of the videogame Super Mario 64 for Nintendo 64. It retextures the game with heavy
